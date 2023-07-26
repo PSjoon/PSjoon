@@ -16,6 +16,8 @@
 <img height="40" width="40" src="https://cdn.simpleicons.org/cisco/D4D4D4" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/figma/D4D4D4" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/notion/D4D4D4" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/git/D4D4D4" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/googlecolab/D4D4D4" />
 </div>
 
   #
