@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/javascript.svg/white" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/javascript/white" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/typescript.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/python.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/react.svg" />
@@ -10,6 +10,8 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/linux.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/kalilinux.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/cisco.svg" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" />
 </div>
 
 
