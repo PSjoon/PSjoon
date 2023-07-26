@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/javascript.svg/808080" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/typescript.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/python.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/react.svg" />
