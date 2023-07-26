@@ -1,24 +1,24 @@
 <div style="display: inline_block" >
-<img height="40" width="40"  src="https://cdn.simpleicons.org/javascript/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/typescript/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/express/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/python/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/react/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/html5/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/css3/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/prisma/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/microsoftazure/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/php/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/linux/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/kalilinux/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/cisco/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/notion/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/git/D4D4D4" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/googlecolab/D4D4D4" />
+<img height="35" width="35"  src="https://cdn.simpleicons.org/javascript/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/typescript/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/express/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/python/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/react/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/html5/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/css3/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/postgresql/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/mysql/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/mongodb/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/prisma/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/amazonaws/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/microsoftazure/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/php/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/linux/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/kalilinux/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/cisco/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/notion/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/git/D4D4D4" />
+<img height="35" width="35" src="https://cdn.simpleicons.org/googlecolab/D4D4D4" />
 
 </div>
 
