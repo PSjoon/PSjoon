@@ -11,7 +11,7 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/kalilinux.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/cisco.svg" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/808080" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/D4D4D4" />
 </div>
 
 
