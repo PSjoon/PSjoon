@@ -1,5 +1,6 @@
-<div style="display: inline_block; ">
-<img height="40" width="40" src="https://cdn.simpleicons.org/javascript/D4D4D4" />
+<!-- display: inline_block; -->
+<div style=" ">
+<img height="40" width="40" margin="0 1000px" src="https://cdn.simpleicons.org/javascript/D4D4D4" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/D4D4D4" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/python/D4D4D4" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/react/D4D4D4" />
