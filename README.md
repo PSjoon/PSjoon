@@ -1,17 +1,17 @@
-<div style="display: inline_block; ; ">
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/php/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linux/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux/D4D4D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/cisco/D4D4D4" />
+<div style="display: inline_block; ">
+<img height="45" width="45" src="https://cdn.simpleicons.org/javascript/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/typescript/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/python/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/react/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/html5/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/css3/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/postgresql/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/mysql/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/mongodb/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/php/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/linux/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/kalilinux/D4D4D4" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/cisco/D4D4D4" />
 </div>
 
   #
