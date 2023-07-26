@@ -1,17 +1,17 @@
 <div style="display: inline_block">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/javascript/white" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/typescript.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/python.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/react.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/html5.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/postgresql.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/mongodb.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/php.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/linux.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/kalilinux.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/cisco.svg" />
-
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/php/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux/D4D4D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cisco/D4D4D4" />
 </div>
 
 
