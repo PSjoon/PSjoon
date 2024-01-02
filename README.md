@@ -51,7 +51,7 @@
 <br/>
 
 <a href="https://github.com/psjoon" title="github status">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psjoon&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psjoon&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true" />
 </a>
 <a href="https://github.com/psjoon" title="linguagens mais utilizadas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjoon&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true" />
