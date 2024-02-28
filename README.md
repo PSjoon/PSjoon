@@ -1,6 +1,6 @@
 <h3>Sobre mim</h3>
 
-- Olá, sou o Pedro, tenho 18 anos e estou em busca do meu primeiro emprego na área de tecnologia. Além da minha formação técnica em Desenvolvimento Web em ETEC, busco me qualificar ainda mais com cursos extracurriculares, como de administração e em soft-skills. Sou extremamente organizado, disciplinado, comunicativo e busco sempre me aprimorar.
+- Olá, sou o Pedro, tenho 18 anos e estou em busca do meu primeiro emprego na área de tecnologia. Além da minha formação técnica em Informática para Internet em ETEC, busco me qualificar ainda mais com cursos extracurriculares, como de administração e em soft-skills. Sou extremamente organizado, disciplinado, comunicativo e busco sempre me aprimorar.
 
 <h3>Minhas Skills</h3>
 
