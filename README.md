@@ -1,6 +1,13 @@
 <h3>Sobre mim</h3>
 
-- Olá, sou o Pedro, tenho 18 anos e estou em busca do meu primeiro emprego na área de tecnologia. Além da minha formação técnica em Informática para Internet em ETEC, busco me qualificar ainda mais com cursos extracurriculares, como de administração e em soft-skills. Sou extremamente organizado, disciplinado, comunicativo e busco sempre me aprimorar.
+Olá, sou o Pedro, mas pode me chamar de Joonie. Sou um profissional altamente qualificado em desenvolvimento back-end e front-end, com sólida experiência em TypeScript, JavaScript, Node.js, Axios, Express.js, Fastify, MySQL, PostgreSQL, MongoDB, Prisma ORM, React.js, HTML, CSS, Tailwind CSS, Tailwind Forms, Material UI, Sass, Next.js, entre outras bibliotecas e frameworks do campo da programação. Tenho forte expertise em desenvolvimento seguro, criando projetos altamente protegidos e evitando ataques cibernéticos. Também tenho experiência em deploy utilizando Microsoft Azure, Vercel e Render. Além disso, destaco-me pela minha habilidade de automação de codificação e mecanismos de pesquisa para otimizar a performance e diminuir o tempo de produção sem perda de qualidade.
+
+Além disso, tenho eficiência comprovada no ensino de TI por professores do ramo e alunos pelos quais fui monitor e professor voluntário, não somente ensinando e orientando o que era necessário para realizar projetos e tarefas, mas correspondendo a todo o papel de desmistificação do campo da TI e abertura de curiosidade e vontade de aprender.
+
+Assim, garanto facilidade de comunicação entre times e equipes e facilidade para demonstração de tarefas realizadas. Juntamente, tanto pelo cargo de professor voluntário/monitor em ETEC e autônomo, quanto pelo cargo voluntário de líder de marketing e coordenador administrativo na Bichinhos da TI, orientando meu time na realização das tarefas, sprints, cumprimento de prazos, recrutamento e treinamento, intercalando as diversas áreas da comunidade para funcionarem em conjunto. Ademais, como técnico administrativo, possuo conhecimento e prática em situações de negociações, marketing, vendas e diversas outras áreas do campo dos negócios, facilitando minha comunicação em diversas áreas.
+
+Além disso, possuo um aprendizado contínuo e estou sempre em busca de novos desafios; quanto mais complexos, mais me gratifico ao realizá-los. Nos meus tempos livres, adoro uma boa leitura, seja brasileira, russa ou técnica, e sempre procuro escrever ensaios textuais sobre leituras com pautas históricas ou sociais. 😉
+
 
 <h3>Minhas Skills</h3>
 
